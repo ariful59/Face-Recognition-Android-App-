@@ -1,2 +1,2 @@
 # SoftwareEngineeringproject
-Software Engineering project (android based face recognition applicatio)
+Face recognition (Android App)
